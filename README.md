@@ -1,5 +1,5 @@
 # **Conditional TGAN with Singular Valued Clipping** 
-This repository contains an implementation of a Conditional Temporal Generative Adversarial Network (TGAN) model using singular value clipping. The model is designed to generate sequences conditioned on text inputs. It follows the principles from the base TGAN paper and integrates text embeddings to guide the generation process.
+This repository contains an implementation of a Conditional Temporal Generative Adversarial Network (TGAN) model using singular value clipping. The model is designed to generate sequences of images needed to make a video conditioned on text inputs. It follows the principles from the base TGAN paper and integrates text embeddings to guide the generation process.
 ## **Overview**
 1) **Project:** Conditional TGAN (Text-Guided Temporal GAN)
 2) Singular value clipping for enforcing the 1-Lipschitz constraint.
